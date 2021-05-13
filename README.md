@@ -1,2 +1,2 @@
 # problematicChatRoom
-works perfectly
+chat room written using sockets and threading.
